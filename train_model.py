@@ -2,6 +2,7 @@ import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
 
+<<<<<<< HEAD
 #  1. Carregar e pré-processar o MNIST 
 (x_train, y_train), (x_test, y_test) = tf.keras.datasets.mnist.load_data()
  
@@ -74,3 +75,6 @@ import os
 
 size_h5 = os.path.getsize("model.h5") / 1024
 print(f"Tamanho do modelo (.h5): {size_h5:.2f} KB")
+=======
+#insira seu código aqui
+>>>>>>> 899bbaa9c313b8c23de5f26b7e09e78f0ad4ebe5
