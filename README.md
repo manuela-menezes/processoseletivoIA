@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 👤 Identificação: Manuela Menezes Alves
 
 # Processo Seletivo – Intensivo Maker | AI
@@ -101,5 +100,3 @@ Pipeline completo de treinamento, conversão e otimização de uma CNN para clas
   ├── model.h5                # Modelo Keras legado (gerado)
   ├── model.tflite            # Full Int8 -- deploy embarcado (gerado)
   └── README.md               # Este relatório
-****
->>>>>>> 899bbaa9c313b8c23de5f26b7e09e78f0ad4ebe5
