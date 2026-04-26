@@ -1,6 +1,5 @@
 import tensorflow as tf
 import os
-<<<<<<< HEAD
  
 #  1. Carregar o modelo treinado 
 model = tf.keras.models.load_model("model.h5")
@@ -75,7 +74,3 @@ print(f"\nEscolha: Full Int8 -- ativações em int8 eliminam conversões em runt
 print(f"reduzindo latência e consumo energético em hardware embarcado.")
  
 
-=======
-
-#insira seu código aqui
->>>>>>> 899bbaa9c313b8c23de5f26b7e09e78f0ad4ebe5
